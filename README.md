@@ -1,8 +1,8 @@
-# Project Slide Design
+# Slide Style
 
 ## Introduction
 
-If the goal of your presentation is to convince an employer of your credibility, you do not want anything distracting from your work. Design aspects can be distracting, particularly:
+In all of your projects at Flatiron School, your work should resemble a professional project, not a "school project". If the goal of your presentation is to convince an employer of your credibility, you do not want anything distracting from your work. Design aspects can be distracting, particularly:
 
 - inconsistencies in style
 - heavy text and clutter
