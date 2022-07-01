@@ -88,8 +88,8 @@ More specifically, visualizations built for presentations should:
 
 - [ ] **Be Purposeful**. The visualization must be relevant to the analysis and fit into the narrative of the presentation. The most **important** part of the visualization should be highlighted. Is this one group different from the others? Where does this model _not_ perform well?
 - [ ] **Be Appropriately Labeled**. Each visualization should have a title, a legend, and labeled axes.
-- [ ] **Have Readable Numbers**. Dollars should have a $ in front of them. Percents should be formated as 50% rather than 0.5. Scientific notation has no business on 99% of data visualizations, especially in presentations.
-- [ ] **Have Readable Text**. Text should be large enough to read and not overlap with other text. All text should be _meaningful_ and _immediately understandable_ by your audence, so the axis label should read "House Sale Price" rather than "salesprice" - **no variable names with CamelCase or underscores!**
+- [ ] **Have Readable Numbers**. Dollars should have a $ in front of them. Percents should be formatted as 50% rather than 0.5. Scientific notation has no business on 99% of data visualizations, especially in presentations.
+- [ ] **Have Readable Text**. Text should be large enough to read and not overlap with other text. All text should be _meaningful_ and _immediately understandable_ by your audience, so the axis label should read "House Sale Price" rather than "salesprice" - **no variable names with CamelCase or underscores!**
 - [ ] **Be Saved to File**. Using a screenshot can produce fuzzy and grainy resolution if the image needs to scaled. Instead, use `savefig` or whichever appropriate command to save your images directly from your notebook.
 
 For further reading on what makes a great data visualization, David McCandless also provides a great [recommended reading list](https://informationisbeautiful.net/visualizations/dataviz-books/) of data visualization books.
@@ -161,4 +161,4 @@ plt.tight_layout()
 
 ## Summary
 
-Small changes can have a big impact on the profesional quality of your slide design. There are many resources out there to help your slides be more consistent, polished, and informative. Utilize them!
+Small changes can have a big impact on the professional quality of your slide design. There are many resources out there to help your slides be more consistent, polished, and informative. Utilize them!
